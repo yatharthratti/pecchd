@@ -92,7 +92,7 @@ def student_data(student_name , student_branch, student_id):
     print("Student branch: ",student_branch)
     print("Student ID: ",student_id)
 
-student_data("Rajdeep","Electrical",22104061)
+student_data("Yatharth","Electrical",22104011)
 
 #Q7
 class Student:
